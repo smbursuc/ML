@@ -1,0 +1,20 @@
+Ex 7.
+
+1.
+Doua evenimente sunt independente daca P(A|B) = P(A)
+
+P(A|B) = P(A.intersection(B)) / P(B) = 
+
+2.
+
+omega = {(H,M) (H,H) (M,H) (M,M)}
+
+Stim ca posibilitatea ca (M,M) = 1/10 iar in restul cazurilor macar un soldat nimereste, deci P = 1-1/10 = 9/10
+
+3.
+
+P(M,M) = P(A.intersection(B)) / P(B) = 1/10
+P(A.intersection(B)) = 1/20
+
+P(H,M) = P(A.intersection(-B)) / P(-B) =  
+
